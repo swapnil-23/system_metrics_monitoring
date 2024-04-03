@@ -6,11 +6,11 @@ HOW TO RUN THIS CODE:
 2. change the database name according to your requirement
 3. in the terminal run this command:
    
-   docker-compose up -d
+   ```docker-compose up -d```
 
 4. in order to check the status of the container running
 
-   docker ps
+   ```docker ps```
 
 
 Only things to be kept in mind is that in the grafana while adding the influx db 
